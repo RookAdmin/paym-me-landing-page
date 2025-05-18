@@ -8,9 +8,11 @@ const Index = () => {
       <div className="w-full max-w-3xl mx-auto flex flex-col items-center">
         {/* Logo */}
         <div className="mb-16">
-          <h1 className="text-rook-blue text-3xl md:text-4xl font-semibold tracking-tight">
-            Paym.me
-          </h1>
+          <img 
+            src="/lovable-uploads/461b1bd9-e48a-43f9-85c6-7879690b0a77.png" 
+            alt="Paym.me by Rook" 
+            className="h-16 md:h-20" 
+          />
         </div>
         
         {/* Main Content */}
