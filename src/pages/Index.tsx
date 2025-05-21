@@ -10,7 +10,7 @@ const Index = () => {
         {/* Logo */}
         <div className="mb-12 md:mb-16">
           <img 
-            src="/lovable-uploads/logo.png" 
+            src="/lovable-uploads/logo1.png" 
             alt="Paym.me by Rook" 
             className="h-16 md:h-20" 
           />
